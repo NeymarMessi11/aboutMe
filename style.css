@@ -1,0 +1,47 @@
+body{
+    background-color: green;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+h2{
+    color: grey;
+    font-size: 65px;
+}
+li{
+    color: black;
+    font-size: 50px;
+}
+a{
+    color: black;
+    font-size: 35px;
+}
+ul{
+    color: grey;
+}
+#pizzainn{
+    height: 500px;
+}
+#cloverleaf{
+    height: 350px;
+}
+#wcpg{
+    height: 300px;
+}
+body{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+.screen-title{
+    font-size: 110px;
+}
+#me{
+    background: url('./IMG_2317.JPG');
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
